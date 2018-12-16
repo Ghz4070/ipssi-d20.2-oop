@@ -6,5 +6,5 @@ namespace Support\Entity\Connect4;
 
 final class Player
 {
-    
+
 }

@@ -18,6 +18,6 @@ final class ConnectFourGame implements FactoryInterface
             $container->get(Output::class),
             $container->get(RandomValue::class),
             ...$container->get('participants')
-        );
+       );
     }
 }

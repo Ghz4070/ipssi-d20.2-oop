@@ -1,5 +1,7 @@
 **Ghezal Ilies**	
+
 ##Composition & Heritage
+
 #### Qu'est-ce que l'héritage ?
 	
 L'héritage est l'un des principes fondamentaux de la programmation orientée objet (OOP), et PHP l'implémente dans son modèle objet. Ce principe aura une incidence sur le nombre de classes qui sont liées les unes aux autres.

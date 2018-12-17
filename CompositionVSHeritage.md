@@ -1,6 +1,6 @@
 **Ghezal Ilies**	
 
-##Composition & Heritage
+#Composition & Heritage
 
 #### Qu'est-ce que l'héritage ?
 	
